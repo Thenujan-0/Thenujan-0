@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thenujan
-- 👀 I’m interested in programming with python
+- 👀 I’m interested in programming with python,flutter,c++
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pretty much nothing
 - 📫 you can reach me on facebook Thenujan Sandramohan
