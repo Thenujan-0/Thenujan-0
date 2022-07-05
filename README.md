@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thenujan
-- 👀 I’m interested in programming with python,dart
-- 💞️ I’m looking to collaborate on pretty much nothing
+- 👀 I’m interested in programming with python dart php
+- 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 you can reach me on facebook Thenujan Sandramohan
 
 <!---
